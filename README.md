@@ -11,5 +11,5 @@ Datasets used in lecture notes, in-class exercises, etc.
 | 02.03.20 	| Analysis of Variance	| [`bikeshare-sample.csv`](https://github.com/sta210-sp20/datasets/blob/master/bikeshare-sample.csv)	|
 | 02.05.20 	| Multiple Linear Regression (MLR): Basics	| [`homeprices.csv`](https://github.com/sta210-sp20/datasets/blob/master/homeprices.csv)
 | 02.10.20 	| MLR: Predictions & Math details	| [`homeprices.csv`](https://github.com/sta210-sp20/datasets/blob/master/homeprices.csv)
-| 02.12.20 	| MLR: Special predictors & assumptions	| [`loans.csv`](https://github.com/sta210-sp20/datasets/blob/master/loans.csv)
+| 02.12.20 	| MLR: Special predictors & assumptions	| [`loans.csv`](https://github.com/sta210-sp20/datasets/blob/master/loans.csv) (subset of `loans_full_schema` in openintro R package)
 
