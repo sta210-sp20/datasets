@@ -14,4 +14,5 @@ Datasets used in lecture notes, in-class exercises, etc.
 | 02.12.20 	| MLR: Special predictors & assumptions	| [`loans.csv`](https://github.com/sta210-sp20/datasets/blob/master/loans.csv) (subset of `loans_full_schema` in openintro R package)
 | 02.17.20 	| MLR: Interactions & transformations	| `ex0824` dataset in the Sleuth3 R package
 | 02.24.20 	| Exam 01 Review	| `diamonds` dataset in the ggplot2 R package
+| 03.02.20 	| Model Assessment| [`tip_data.csv`](https://github.com/sta210-sp20/datasets/blob/master/tip-data.csv)
 
